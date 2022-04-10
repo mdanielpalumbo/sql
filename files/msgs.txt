@@ -1,1 +1,0 @@
-[{"msg":"Bienvenido al chat!","time":"19:14:55","mail":"admin@admin.com","id":1},{"msg":"Gracias! Necesito ayuda con xx producto!","time":"19:15:49","mail":"randomUser@random.com","id":2}]
